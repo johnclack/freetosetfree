@@ -7,3 +7,5 @@ FREE TO SET FREE WEBSITE
 
 The supplied image is stored at:
 assets/images/fire-rainbow-mountains.png
+
+Updated July 2026: contact page removed; contact email is freedom@freetosetfree.org; Financial Empowerment Grants placeholder page added.
