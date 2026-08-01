@@ -14,3 +14,5 @@ Upload all files and folders together to the public web directory on your host. 
 
 Contact email used throughout the site:
 freedom@freetosetfree.org
+
+Version 5 changes: text-only navigation brand; direct Amazon product links added to all four suggested-reading books.

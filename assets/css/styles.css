@@ -17,3 +17,9 @@
 .infographic-figure img{display:block;width:100%;height:auto;border-radius:4px}
 .infographic-figure figcaption{padding:15px 10px 3px;text-align:center;color:#5b6675;font-size:.92rem}
 @media(max-width:800px){.brand img{width:175px;max-height:58px}.hero-logo{width:min(520px,90vw);margin-bottom:24px}.about-copy{margin-bottom:30px}.infographic-figure{padding:8px}.infographic-figure figcaption{font-size:.84rem}}
+
+
+/* Version 5: text-only navigation brand and stable sizing */
+.brand-text{display:inline-flex!important;align-items:center;line-height:1!important;color:#fff;font:700 clamp(.88rem,1.25vw,1.08rem)/1 var(--serif)!important;letter-spacing:.16em;white-space:nowrap;text-shadow:0 2px 9px rgba(0,0,0,.55)}
+.brand-text:hover{color:#fff}
+@media(max-width:800px){.brand-text{font-size:.82rem!important;letter-spacing:.11em}}
