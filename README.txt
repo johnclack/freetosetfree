@@ -1,11 +1,16 @@
-FREE TO SET FREE WEBSITE
+FREE TO SET FREE FOUNDATION WEBSITE
 
+Preview:
 1. Unzip the package.
-2. Open index.html in a web browser to preview the site.
-3. Upload the entire contents of this folder to your web host, preserving the assets folder.
-4. Before launch, replace the placeholder donation notice/link and confirm the contact email.
+2. Open index.html in a web browser.
 
-The supplied image is stored at:
-assets/images/fire-rainbow-mountains.png
+Included assets:
+- Fire-rainbow mountain background
+- White Free to Set Free Foundation logo
+- Giving-cycle infographic on the About page
 
-Updated July 2026: contact page removed; contact email is freedom@freetosetfree.org; Financial Empowerment Grants placeholder page added.
+Deployment:
+Upload all files and folders together to the public web directory on your host. Keep the assets folder structure unchanged.
+
+Contact email used throughout the site:
+freedom@freetosetfree.org
