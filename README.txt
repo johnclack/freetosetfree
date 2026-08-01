@@ -1,18 +1,10 @@
-FREE TO SET FREE FOUNDATION WEBSITE
+FREE TO SET FREE WEBSITE — VERSION 6
 
-Preview:
-1. Unzip the package.
-2. Open index.html in a web browser.
+Open index.html in a web browser to preview the site.
 
-Included assets:
-- Fire-rainbow mountain background
-- White Free to Set Free Foundation logo
-- Giving-cycle infographic on the About page
+Changes in this version:
+- Added the live Clover Donate Now button to donate.html.
+- Updated the Donate page text to reference Biblical financial education.
+- Retained the fire-rainbow background, current logo treatment, About infographic, mission, and Resources page.
 
-Deployment:
-Upload all files and folders together to the public web directory on your host. Keep the assets folder structure unchanged.
-
-Contact email used throughout the site:
-freedom@freetosetfree.org
-
-Version 5 changes: text-only navigation brand; direct Amazon product links added to all four suggested-reading books.
+To publish, upload all files and folders while preserving the existing directory structure.
